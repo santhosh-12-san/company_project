@@ -1,1 +1,5 @@
-# company_project
+# Company Project
+
+Developer: Supriya
+
+Learning Git Workflow
